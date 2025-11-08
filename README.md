@@ -1,1 +1,1 @@
-Its a functional calculator with modern and responsive 
+Its a functional calculator with modern and responsive ui
